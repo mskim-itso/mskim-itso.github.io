@@ -17,6 +17,11 @@ favicon: assets/images/favicon.png
 production_url: ''
 source_url: ''
 
+collections_dir: collections
+collections:
+  podcast:
+    output: true
+
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
