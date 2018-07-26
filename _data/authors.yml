@@ -1,0 +1,10 @@
+snsmanual:
+  username: snsmanual
+  name: SNS설명서
+  url_full: http://snsmanual.com/
+  url: snsmanual.com/
+  bio: SNS의 모든것
+  picture: assets/images/ghost.png
+  facebook: snsmanual
+  twitter: 
+  cover: False
