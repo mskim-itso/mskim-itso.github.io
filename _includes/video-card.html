@@ -1,7 +1,7 @@
 {% for post in paginator.posts %}
     <article class="post-card {{ page.class }}{% unless post.cover %} no-image{% endunless %}">
         {% if post.cover %}
-            <a class="post-card-image-link" href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">
+            <a class="post-card-image-link trigger" href="https://www.youtube.com/embed/J0h8-OTC38I">
                 <div class="post-card-image" style="background-image: url({{ site.baseurl }}{{ post.cover }})"></div>
             </a>
         {% endif %}
