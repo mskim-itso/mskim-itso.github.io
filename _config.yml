@@ -17,10 +17,7 @@ favicon: assets/images/favicon.png
 production_url: ''
 source_url: ''
 
-collections_dir: collections
-collections:
-  podcast:
-    output: true
+category_dir: category/
 
 # Social info
 navigation: True # show the navbar links
@@ -39,7 +36,6 @@ google_analytics:  # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
-permalink: /podcast/index.html
 # permalink: /author/:author
 # permalink: /tag/:tag
 
