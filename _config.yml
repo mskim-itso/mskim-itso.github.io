@@ -39,6 +39,7 @@ google_analytics:  # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
+permalink: /podcast/index.html
 # permalink: /author/:author
 # permalink: /tag/:tag
 
