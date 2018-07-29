@@ -47,9 +47,11 @@ into the {body} of the default.hbs template -->
             {% endif %}
 
             <section class="post-full-content">
+                {% if page.video_url %}
                 <div>
                     <iframe src="https://www.youtube.com/embed/{{ page.video_url }}" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
                 </div>
+                {% endif %}
                 <div class="kg-card-markdown">
                     {{ content }}
                 </div>
