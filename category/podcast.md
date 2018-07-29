@@ -1,5 +1,5 @@
 ---
-layout: video_post
+layout: category
 current: post
 navigation: true
 class: post-template
