@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: '/'
+production_url: 'https://heuristic-albattani-302d9d.netlify.com/'
 source_url: ''
 
 category_dir: category/
