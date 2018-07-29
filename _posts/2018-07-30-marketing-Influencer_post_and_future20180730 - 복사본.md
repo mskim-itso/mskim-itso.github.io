@@ -3,14 +3,14 @@ layout: video_post
 current: video_list
 cover:  
 navigation: True
-title: 페이스북, ‘가짜뉴스’ 차단 실행 – 전 세계적으로 확대
+title: 인플루언서, 과거와 미래
 date: 2017-07-27 10:00:00
-tags: [SNS News]
+tags: [Marketing]
 class: post-template
 subclass: 'post tag-getting-started'
 author: snsmanual
 categories:
-  - SNS News
+  - Marketing
 video_url: 
 ---
 
