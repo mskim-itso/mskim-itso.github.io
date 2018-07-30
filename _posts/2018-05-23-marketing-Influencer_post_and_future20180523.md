@@ -1,10 +1,10 @@
 ---
-layout: video_post
-current: video_list
+layout: post
+current: post
 cover:  
 navigation: True
 title: 인플루언서, 과거와 미래
-date: 2017-07-27 10:00:00
+date: 2018-05-23 10:00:00
 tags: [Marketing]
 class: post-template
 subclass: 'post tag-getting-started'

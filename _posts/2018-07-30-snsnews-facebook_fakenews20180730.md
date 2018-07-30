@@ -1,6 +1,6 @@
 ---
-layout: video_post
-current: video_list
+layout: post
+current: post
 cover:  
 navigation: True
 title: 페이스북, ‘가짜뉴스’ 차단 실행 – 전 세계적으로 확대
