@@ -4,7 +4,7 @@ current: post
 cover:  
 navigation: True
 title: 페이스북, ‘가짜뉴스’ 차단 실행 – 전 세계적으로 확대
-date: 2017-07-27 10:00:00
+date: 2018-05-23 10:00:00
 tags: [SNS News]
 class: post-template
 subclass: 'post tag-getting-started'
