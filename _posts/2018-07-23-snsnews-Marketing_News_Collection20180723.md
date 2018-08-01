@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  
 navigation: True
-title: 일일 마케팅 뉴스 모음
+title: 일일 마케팅 뉴스 모음 - 7월23일
 date: 2018-07-23 10:00:00
 tags: [SNS News]
 class: post-template
