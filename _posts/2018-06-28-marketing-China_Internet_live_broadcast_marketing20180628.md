@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/001(453).jpg
 navigation: True
 title: 인터넷 생방송 마케팅으로 중국 소비층 공략한다?!
 date: 2018-06-28 10:00:00
