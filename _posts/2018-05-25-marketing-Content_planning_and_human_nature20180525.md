@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/imges/486d825347ff9e64ce7402857c8f28e5.jpg
+cover:  assets/imges/486d825347ff9e6.jpg
 navigation: True
 title: 콘텐츠 기획과 인간의 3가지 본성
 date: 2018-05-25 10:00:00
