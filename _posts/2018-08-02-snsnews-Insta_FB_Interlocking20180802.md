@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/instagram.png 
 navigation: True
 title: 인스타, SNS 패권 잡나…페북·인스타 연동 강화
 date: 2018-08-02 10:00:00
