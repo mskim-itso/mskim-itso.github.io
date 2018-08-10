@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/61202de7294a7366809af1adafb9eed5.jpg
 navigation: True
 title: 디지털 시장, 주목받는 키워드 ‘마이크로 모먼츠’
 date: 2018-05-28 10:00:00
