@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/kakaofriends.png
 navigation: True
 title: 카카오프렌즈, 카카오IX로 이름 바꾼다
 date: 2018-08-01 10:00:00
