@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/200BB83A4F3E13AC07.jpg
 navigation: True
 title: 자주 저지르는 SNS 마케팅 실수 7가지
 date: 2018-06-05 10:00:00
