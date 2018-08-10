@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/maxresdefault.jpg
 navigation: True
 title: 빅데이터 기반 기존고객 유지 및 신규진성고객 창출전략
 date: 2018-07-30 10:00:00
