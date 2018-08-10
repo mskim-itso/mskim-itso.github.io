@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/courseimgmktgcampconmak.png
 navigation: True
 title: 콘텐츠 기획과 인간의 본성
 date: 2018-06-12 10:00:00
