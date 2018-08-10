@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/KakaoTalk_20160621_101616171.png
 navigation: True
 title: 스텔스 마케팅에 대해 아시나요?
 date: 2018-05-24 10:00:00
