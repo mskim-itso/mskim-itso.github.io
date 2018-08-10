@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/7f1fae3b7c202e594244a73a57ff63ac.jpg
 navigation: True
 title: CS (Customer Service) 고객 응대 빅데이터를 활용한 마케팅 과학화
 date: 2018-05-25 10:00:00
