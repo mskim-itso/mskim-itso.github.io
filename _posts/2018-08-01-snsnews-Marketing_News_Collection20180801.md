@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/marketing_new20180801.png 
 navigation: True
 title: 일일 마케팅 뉴스 모음 - 8월1일
 date: 2018-08-01 10:00:00
