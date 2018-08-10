@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/marketing-strategy.jpg
+cover:  assets/images/marketingstrategy.jpg
 navigation: True
 title: 한국은 현재 참여 마케팅 열풍!
 date: 2018-06-27 10:00:00
