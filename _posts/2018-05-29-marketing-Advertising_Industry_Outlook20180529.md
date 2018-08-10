@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/11cf13fe693a97cbc7f5e77beaf4669c.jpg
 navigation: True
 title: IT 트렌드 알아보기 - 광고산업 전망
 date: 2018-05-29 10:00:00
