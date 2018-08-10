@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/310932_107518_5851.png
 navigation: True
 title: 유통가 점령하는 ‘B급 코드’
 date: 2018-07-30 10:00:00
