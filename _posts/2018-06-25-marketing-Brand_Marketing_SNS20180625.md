@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/56502_166067_5235.png
 navigation: True
 title: 브랜드 마케팅, SNS으로 시작하자
 date: 2018-06-25 10:00:00
