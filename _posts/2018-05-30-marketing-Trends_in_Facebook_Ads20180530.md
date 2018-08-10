@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  asset/images/facebook.png
+cover:  asset/images/facebookimages.png
 navigation: True
 title: 2018년 Facebook 광고의 동향알아보기
 date: 2018-05-30 10:00:00
