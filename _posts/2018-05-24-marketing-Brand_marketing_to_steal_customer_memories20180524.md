@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/4c36785ec4d81282f43b3cd160b0857c.jpg
 navigation: True
 title: 고객의 기억을 훔치는 브랜드 마케팅
 date: 2018-05-24 10:00:00
