@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:assets/images/24425E3D57C39FC70D.jpg
 navigation: True
 title: 인스타그램, ‘인증 배지’ 신청제 도입
 date: 2018-07-24 10:00:00
