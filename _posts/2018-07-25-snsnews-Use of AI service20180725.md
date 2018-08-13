@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/down.jpg
 navigation: True
 title: ‘다운로드’만으로 일반인도 인공지능(AI) 서비스 이용 가능해진다
 date: 2018-07-25 10:00:00
@@ -29,5 +29,5 @@ KSB융합연구단 표철식 단장은 “KBS 인공지능 프레임워크는 �
 희망하는 국내 많은 기업에게 도움을 주고, 인공지능 산업생태계의 공통 플랫폼으로 활용되길 바란다”고 밝혔다.
 한편 ETRI는 KSB 인공지능 프레임워크 베타버전을 활용해 연구 과정을 개방하고, 일반인으로부터 사용 후 피드백을 받아 문제점을 파악, 보완할 예정이다.
 
- 
+
 출처 - [중앙일보](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=025&aid=0002835246&lfrom=facebook)
