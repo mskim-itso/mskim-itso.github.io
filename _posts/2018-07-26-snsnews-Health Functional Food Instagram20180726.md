@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:  assets/images/art_151166675152_95e5f5.png
 navigation: True
 title: 건강기능식품 인스타그램 마케팅 열풍
 date: 2018-07-26 10:00:00
