@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  
+cover:assets/images/marketing_new20180723.png
 navigation: True
 title: 일일 마케팅 뉴스 모음 - 7월23일
 date: 2018-07-23 10:00:00
