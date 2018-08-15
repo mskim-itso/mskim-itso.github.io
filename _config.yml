@@ -14,7 +14,7 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: 'https://snsmanual.com/'
+production_url: 'http://snsmanual.com/'
 source_url: ''
 
 category_dir: category/
