@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/kakaokakaom.jpg
+cover:  assets/images/kakao_.jpg
 navigation: True
 title: 카카오-카카오M, 합병 시너지 낸다
 date: 2018-08-23 10:00:00
