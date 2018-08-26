@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/01_11122225_1.jpg
 navigation: True
-title: ""'냐·냠' 언어유희 마케팅 뜬다…"매출도 '쓱'"
+title: '냐·냠' 언어유희 마케팅 뜬다…"매출도 '쓱'
 date: 2018-08-27 10:00:00
 tags: [Marketing]
 class: post-template
