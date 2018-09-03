@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/BXbTwIkTjXi2VEaJ.jpg
 navigation: True
 title: 구글, 위치 기록 중단해도 사용자 위치 추적한다
-date: 2018-08-30 10:00:00
+date: 2018-09-03 10:00:00
 tags: [Marketing]
 class: post-template
 subclass: 'post tag-getting-started'
