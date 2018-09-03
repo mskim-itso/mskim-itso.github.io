@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/20180709022036989426.jpg
+cover:  assets/images/sys_1.png
 navigation: True
 title: "이름만 들어도 알겠네" 유통업계 '네이밍마케팅' 열전
 date: 2018-09-03 11:05:00
